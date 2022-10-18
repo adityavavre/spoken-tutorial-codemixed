@@ -1,6 +1,6 @@
-# Spoken-Tutorial-Dataset
+# Spoken-Tutorial
 
-The data has been scraped from a video lectures website called the Spoken Tutorial Project which can be found at https://spoken-tutorial.org/
+This repository contains data that has been scraped from a video lectures website called the Spoken Tutorial Project which can be found at https://spoken-tutorial.org/
 
 # Cite 
 
